@@ -1,4 +1,4 @@
-# Blink.ai — React URL Shortener
+# Shorty — React URL Shortener
 
 A beautiful, production-ready React + Express URL shortener with smart (AI-like) slug suggestions, Tailwind theming, and modern UX.
 
